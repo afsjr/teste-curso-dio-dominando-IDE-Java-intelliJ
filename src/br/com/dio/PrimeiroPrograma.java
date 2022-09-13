@@ -9,6 +9,8 @@ public class PrimeiroPrograma {
 
         Livro livro1 = new Livro("O problema dos 3 corpos", 300);
         System.out.println(livro1);
+        Livro livro2 = new Livro("Operacao cavalo de troia 9",1000);
+        System.out.println(livro2);
 
         /*int a = 5;
         int b = 3;
