@@ -11,6 +11,9 @@ public class PrimeiroPrograma {
         System.out.println(livro1);
         Livro livro2 = new Livro("Operacao cavalo de troia 9",1000);
         System.out.println(livro2);
+        Livro livro3 = new Livro("o segredo da bruxa", 160);
+        
+                
 
         /*int a = 5;
         int b = 3;
